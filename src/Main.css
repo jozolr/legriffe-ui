@@ -1,0 +1,24 @@
+body {
+  overflow-x: hidden;
+}
+.Header {
+  width: 100%;
+}
+
+.body {
+  background-image: url("./images/TEXTURE-BLEUE.jpg");
+  color:  rgb(238,236,225);
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  text-shadow: 2px 2px 3px rgba(0,0,0, 0.5);
+  margin-bottom: 10px;
+  padding-top: 30px;
+  padding-bottom:50px;
+}
+
+@media screen and (max-width: 480px){
+  .body {
+      font-size: 15px;
+  }
+}

@@ -1,0 +1,19 @@
+.map {
+    height: 500px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+.mapboxgl-popup {
+    max-width: 200px;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: white;
+    text-shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
+
+.mapboxgl-popup-close-button {
+    background-color: white;
+    margin-right: 10px;
+    border: none
+}

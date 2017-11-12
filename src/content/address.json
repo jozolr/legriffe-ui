@@ -1,0 +1,10 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [2.345,48.887]
+  },
+  "properties": {
+    "name": "Soleil de la Butte"
+  }
+}
